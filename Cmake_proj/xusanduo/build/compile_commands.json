@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/winshare/Code/Cmake_proj/xusanduo/build",
+  "command": "/usr/bin/g++  -I/mnt/winshare/Code/Cmake_proj/xusanduo/include -g -o CMakeFiles/sbtj.dir/main.cpp.o -c /mnt/winshare/Code/Cmake_proj/xusanduo/main.cpp",
+  "file": "/mnt/winshare/Code/Cmake_proj/xusanduo/main.cpp"
+},
+{
+  "directory": "/mnt/winshare/Code/Cmake_proj/xusanduo/build",
+  "command": "/usr/bin/g++  -I/mnt/winshare/Code/Cmake_proj/xusanduo/include -g -o CMakeFiles/sbtj.dir/src/soldier.cpp.o -c /mnt/winshare/Code/Cmake_proj/xusanduo/src/soldier.cpp",
+  "file": "/mnt/winshare/Code/Cmake_proj/xusanduo/src/soldier.cpp"
+},
+{
+  "directory": "/mnt/winshare/Code/Cmake_proj/xusanduo/build",
+  "command": "/usr/bin/g++  -I/mnt/winshare/Code/Cmake_proj/xusanduo/include -g -o CMakeFiles/sbtj.dir/src/Gun.cpp.o -c /mnt/winshare/Code/Cmake_proj/xusanduo/src/Gun.cpp",
+  "file": "/mnt/winshare/Code/Cmake_proj/xusanduo/src/Gun.cpp"
+}
+]

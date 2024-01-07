@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/sbtj.dir/main.cpp.o CMakeFiles/sbtj.dir/src/soldier.cpp.o CMakeFiles/sbtj.dir/src/Gun.cpp.o -o sbtj 

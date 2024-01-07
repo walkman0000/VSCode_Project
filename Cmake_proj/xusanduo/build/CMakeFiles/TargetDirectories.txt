@@ -1,0 +1,3 @@
+/mnt/winshare/Code/Cmake_proj/xusanduo/build/CMakeFiles/sbtj.dir
+/mnt/winshare/Code/Cmake_proj/xusanduo/build/CMakeFiles/edit_cache.dir
+/mnt/winshare/Code/Cmake_proj/xusanduo/build/CMakeFiles/rebuild_cache.dir
